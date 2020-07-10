@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 49be0b27915d25b4aaffc18f638aefad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8033386178258346904
+    second: Blonde Citizen_0
+  - first:
+      213: -4874227888075310218
+    second: Blonde Citizen_1
+  - first:
+      213: -9193887090068938539
+    second: Blonde Citizen_2
+  - first:
+      213: -3451916986884979840
+    second: Blonde Citizen_3
+  - first:
+      213: -8470756676171047468
+    second: Blonde Citizen_4
+  - first:
+      213: -6913488600739941044
+    second: Blonde Citizen_5
+  - first:
+      213: 2565891945810656991
+    second: Blonde Citizen_6
+  - first:
+      213: 409475693392993369
+    second: Blonde Citizen_7
+  - first:
+      213: 1691982168629983867
+    second: Blonde Citizen_8
+  - first:
+      213: -2438926448881326398
+    second: Blonde Citizen_9
+  - first:
+      213: -8611841824052810174
+    second: Blonde Citizen_10
+  - first:
+      213: 5864672670474150548
+    second: Blonde Citizen_11
+  - first:
+      213: -1267068929125955544
+    second: Blonde Citizen_0
+  - first:
+      213: 1804856434665116687
+    second: Blonde Citizen_1
+  - first:
+      213: -7667207172950697721
+    second: Blonde Citizen_2
+  - first:
+      213: -9115017880853304573
+    second: Blonde Citizen_3
+  - first:
+      213: 2862447633259347409
+    second: Blonde Citizen_4
+  - first:
+      213: 6034881867127277138
+    second: Blonde Citizen_5
+  - first:
+      213: 6924492886359952636
+    second: Blonde Citizen_6
+  - first:
+      213: 7479868122837581436
+    second: Blonde Citizen_7
+  - first:
+      213: 2158559278070580324
+    second: Blonde Citizen_8
+  - first:
+      213: -3841028387579843772
+    second: Blonde Citizen_9
+  - first:
+      213: -2271976717365109563
+    second: Blonde Citizen_10
+  - first:
+      213: 6662275058921350927
+    second: Blonde Citizen_11
+  - first:
+      213: -3103432851343057666
+    second: Blonde Citizen_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blonde Citizen_0
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 190
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828438da5877a6ee0800000000000000
+      internalID: -1267068929125955544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blonde Citizen_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 190
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04dac26d532c0910800000000000000
+      internalID: 1804856434665116687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blonde Citizen_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 190
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70952f4e2bb989590800000000000000
+      internalID: -7667207172950697721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blonde Citizen_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 132
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ba762e783f08180800000000000000
+      internalID: -9115017880853304573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blonde Citizen_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 132
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddb490e4f479b720800000000000000
+      internalID: 2862447633259347409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blonde Citizen_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 132
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256419f751530c350800000000000000
+      internalID: 6034881867127277138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blonde Citizen_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc4435b79db81060800000000000000
+      internalID: 6924492886359952636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blonde Citizen_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 75
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e708c7d64ddc760800000000000000
+      internalID: 7479868122837581436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blonde Citizen_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 75
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46445041a3eb4fd10800000000000000
+      internalID: 2158559278070580324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blonde Citizen_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 75
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bac1a380de1bac0800000000000000
+      internalID: -3841028387579843772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blonde Citizen_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 19
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc9e7786315870e0800000000000000
+      internalID: -2271976717365109563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blonde Citizen_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 19
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07a3fa2ed7257c50800000000000000
+      internalID: 6662275058921350927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blonde Citizen_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 19
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc5b6fa3446ee4d0800000000000000
+      internalID: -3103432851343057666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2624 @@
+fileFormatVersion: 2
+guid: ac7f4ffa1c2545f4496245ef54bb829d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2129987158280458831
+    second: Doctors Spritesheet_0
+  - first:
+      213: 5912368282744220573
+    second: Doctors Spritesheet_1
+  - first:
+      213: -680944697732852748
+    second: Doctors Spritesheet_2
+  - first:
+      213: 8226196958810150188
+    second: Doctors Spritesheet_3
+  - first:
+      213: 7591705615870210728
+    second: Doctors Spritesheet_4
+  - first:
+      213: 6945603247178159740
+    second: Doctors Spritesheet_5
+  - first:
+      213: 5330414986358003972
+    second: Doctors Spritesheet_6
+  - first:
+      213: 392382463883904009
+    second: Doctors Spritesheet_7
+  - first:
+      213: 106313407871030148
+    second: Doctors Spritesheet_8
+  - first:
+      213: -1858569059262729873
+    second: Doctors Spritesheet_9
+  - first:
+      213: 4898985619213952471
+    second: Doctors Spritesheet_10
+  - first:
+      213: -6995310578997038661
+    second: Doctors Spritesheet_11
+  - first:
+      213: 4844397556477200926
+    second: Doctors Spritesheet_12
+  - first:
+      213: -8496263104052270098
+    second: Doctors Spritesheet_13
+  - first:
+      213: -7045296654248928443
+    second: Doctors Spritesheet_14
+  - first:
+      213: 2091342875578137980
+    second: Doctors Spritesheet_15
+  - first:
+      213: -393871258601455018
+    second: Doctors Spritesheet_16
+  - first:
+      213: 1698527907932832256
+    second: Doctors Spritesheet_17
+  - first:
+      213: 5007733133385213473
+    second: Doctors Spritesheet_18
+  - first:
+      213: 1864112919294378135
+    second: Doctors Spritesheet_19
+  - first:
+      213: -707898981781527333
+    second: Doctors Spritesheet_20
+  - first:
+      213: 6833928522260741346
+    second: Doctors Spritesheet_21
+  - first:
+      213: 8523532513696290380
+    second: Doctors Spritesheet_22
+  - first:
+      213: -7574401519321967990
+    second: Doctors Spritesheet_23
+  - first:
+      213: -5347578979249644736
+    second: Doctors Spritesheet_24
+  - first:
+      213: 2897577138576415365
+    second: Doctors Spritesheet_25
+  - first:
+      213: 5222148184654725527
+    second: Doctors Spritesheet_26
+  - first:
+      213: 708862941927349015
+    second: Doctors Spritesheet_27
+  - first:
+      213: 4578887480129846657
+    second: Doctors Spritesheet_28
+  - first:
+      213: -2036448243141428453
+    second: Doctors Spritesheet_29
+  - first:
+      213: -7000289381876770302
+    second: Doctors Spritesheet_30
+  - first:
+      213: -7778890880621115747
+    second: Doctors Spritesheet_31
+  - first:
+      213: 440224440258315006
+    second: Doctors Spritesheet_32
+  - first:
+      213: 9122103710488460896
+    second: Doctors Spritesheet_33
+  - first:
+      213: 1968923343588831848
+    second: Doctors Spritesheet_34
+  - first:
+      213: -1117184792572264944
+    second: Doctors Spritesheet_35
+  - first:
+      213: 8019149585777989867
+    second: Doctors Spritesheet_36
+  - first:
+      213: 5761733085416687838
+    second: Doctors Spritesheet_37
+  - first:
+      213: 3695568499683808459
+    second: Doctors Spritesheet_38
+  - first:
+      213: -4754757842452607911
+    second: Doctors Spritesheet_39
+  - first:
+      213: 7863986657875026237
+    second: Doctors Spritesheet_40
+  - first:
+      213: 9148118263810080078
+    second: Doctors Spritesheet_41
+  - first:
+      213: 7105367485416014949
+    second: Doctors Spritesheet_42
+  - first:
+      213: -4574963569624929693
+    second: Doctors Spritesheet_43
+  - first:
+      213: -7400129232052569458
+    second: Doctors Spritesheet_44
+  - first:
+      213: -6524650606993065912
+    second: Doctors Spritesheet_45
+  - first:
+      213: -7701349621579434265
+    second: Doctors Spritesheet_46
+  - first:
+      213: 4744878093077319975
+    second: Doctors Spritesheet_47
+  - first:
+      213: 1029163081934831020
+    second: Doctors Spritesheet_48
+  - first:
+      213: -6175817001930386157
+    second: Doctors Spritesheet_49
+  - first:
+      213: -3722204794658591904
+    second: Doctors Spritesheet_50
+  - first:
+      213: -6855783908616507780
+    second: Doctors Spritesheet_51
+  - first:
+      213: 1585695308646195860
+    second: Doctors Spritesheet_52
+  - first:
+      213: -8722756681127497969
+    second: Doctors Spritesheet_53
+  - first:
+      213: -4031574820121695817
+    second: Doctors Spritesheet_54
+  - first:
+      213: 6362675457560078484
+    second: Doctors Spritesheet_55
+  - first:
+      213: 505077170562299449
+    second: Doctors Spritesheet_56
+  - first:
+      213: -779719264790475391
+    second: Doctors Spritesheet_57
+  - first:
+      213: 547499983298515888
+    second: Doctors Spritesheet_58
+  - first:
+      213: 1928086000135041980
+    second: Doctors Spritesheet_59
+  - first:
+      213: -8983379501031025432
+    second: Doctors Spritesheet_60
+  - first:
+      213: -9062060312712041449
+    second: Doctors Spritesheet_61
+  - first:
+      213: 3168485215487512524
+    second: Doctors Spritesheet_62
+  - first:
+      213: 4227035065885637406
+    second: Doctors Spritesheet_63
+  - first:
+      213: 7946388184474701770
+    second: Doctors Spritesheet_64
+  - first:
+      213: -7982074516381112984
+    second: Doctors Spritesheet_65
+  - first:
+      213: 1339197740988778177
+    second: Doctors Spritesheet_66
+  - first:
+      213: -8890843292741185683
+    second: Doctors Spritesheet_67
+  - first:
+      213: 3532490215602640929
+    second: Doctors Spritesheet_0
+  - first:
+      213: 2575268537002812076
+    second: Doctors Spritesheet_1
+  - first:
+      213: 4565987966297722864
+    second: Doctors Spritesheet_2
+  - first:
+      213: 6961838715250477665
+    second: Doctors Spritesheet_3
+  - first:
+      213: 4015155488888940047
+    second: Doctors Spritesheet_4
+  - first:
+      213: 1658044261610009768
+    second: Doctors Spritesheet_5
+  - first:
+      213: -5787547910591578645
+    second: Doctors Spritesheet_6
+  - first:
+      213: 7459694489919449390
+    second: Doctors Spritesheet_7
+  - first:
+      213: 8614899946711709576
+    second: Doctors Spritesheet_8
+  - first:
+      213: 6570562701720118739
+    second: Doctors Spritesheet_9
+  - first:
+      213: -9035461111696049450
+    second: Doctors Spritesheet_10
+  - first:
+      213: 570895104074548354
+    second: Doctors Spritesheet_11
+  - first:
+      213: 4837613558138769039
+    second: Doctors Spritesheet_12
+  - first:
+      213: -5751482123562233230
+    second: Doctors Spritesheet_13
+  - first:
+      213: 8128309591347987073
+    second: Doctors Spritesheet_14
+  - first:
+      213: 1341073657908714908
+    second: Doctors Spritesheet_15
+  - first:
+      213: 7864895823509269200
+    second: Doctors Spritesheet_16
+  - first:
+      213: 3934269819093927578
+    second: Doctors Spritesheet_17
+  - first:
+      213: -857537920042346704
+    second: Doctors Spritesheet_18
+  - first:
+      213: -4083563866497504332
+    second: Doctors Spritesheet_19
+  - first:
+      213: -8666126005295800393
+    second: Doctors Spritesheet_20
+  - first:
+      213: -267293561025854392
+    second: Doctors Spritesheet_21
+  - first:
+      213: 5866770994899042525
+    second: Doctors Spritesheet_22
+  - first:
+      213: 99887526555286471
+    second: Doctors Spritesheet_23
+  - first:
+      213: 5476138685092694697
+    second: Doctors Spritesheet_24
+  - first:
+      213: 7646896028113989482
+    second: Doctors Spritesheet_25
+  - first:
+      213: 5477636510761564793
+    second: Doctors Spritesheet_26
+  - first:
+      213: 554404727311304529
+    second: Doctors Spritesheet_27
+  - first:
+      213: 8458840160172693567
+    second: Doctors Spritesheet_28
+  - first:
+      213: 7821724595053340973
+    second: Doctors Spritesheet_29
+  - first:
+      213: -5301724673495242632
+    second: Doctors Spritesheet_30
+  - first:
+      213: 995038993720163572
+    second: Doctors Spritesheet_31
+  - first:
+      213: -6111482215722829143
+    second: Doctors Spritesheet_32
+  - first:
+      213: -4416746018077775143
+    second: Doctors Spritesheet_33
+  - first:
+      213: -3705253021196140767
+    second: Doctors Spritesheet_34
+  - first:
+      213: -2383536724605169940
+    second: Doctors Spritesheet_35
+  - first:
+      213: -5100856471371163095
+    second: Doctors Spritesheet_36
+  - first:
+      213: -3156622563036875444
+    second: Doctors Spritesheet_37
+  - first:
+      213: -3202113069134749279
+    second: Doctors Spritesheet_38
+  - first:
+      213: -7115122256600202900
+    second: Doctors Spritesheet_39
+  - first:
+      213: -8531861076037757919
+    second: Doctors Spritesheet_40
+  - first:
+      213: 8462194844486237062
+    second: Doctors Spritesheet_41
+  - first:
+      213: -5050770962726854431
+    second: Doctors Spritesheet_42
+  - first:
+      213: -7160777236547328281
+    second: Doctors Spritesheet_43
+  - first:
+      213: 7377500062086133735
+    second: Doctors Spritesheet_44
+  - first:
+      213: 7684567609352855875
+    second: Doctors Spritesheet_45
+  - first:
+      213: 2263134913076694199
+    second: Doctors Spritesheet_46
+  - first:
+      213: 5494736686306811345
+    second: Doctors Spritesheet_47
+  - first:
+      213: 8931680601809242256
+    second: Doctors Spritesheet_48
+  - first:
+      213: 4951401070498389112
+    second: Doctors Spritesheet_49
+  - first:
+      213: 5980344734746366822
+    second: Doctors Spritesheet_50
+  - first:
+      213: 3901775245295721217
+    second: Doctors Spritesheet_51
+  - first:
+      213: 7766584757382213234
+    second: Doctors Spritesheet_52
+  - first:
+      213: -6778212395378070275
+    second: Doctors Spritesheet_53
+  - first:
+      213: 5169056967399245317
+    second: Doctors Spritesheet_54
+  - first:
+      213: -8441725537675998020
+    second: Doctors Spritesheet_55
+  - first:
+      213: -163758303558276409
+    second: Doctors Spritesheet_56
+  - first:
+      213: 9113622441970643863
+    second: Doctors Spritesheet_57
+  - first:
+      213: -7781655980866468106
+    second: Doctors Spritesheet_58
+  - first:
+      213: -7594521189797073683
+    second: Doctors Spritesheet_59
+  - first:
+      213: 5453046023551110906
+    second: Doctors Spritesheet_60
+  - first:
+      213: 4154887299034583791
+    second: Doctors Spritesheet_61
+  - first:
+      213: -7398918521921083307
+    second: Doctors Spritesheet_62
+  - first:
+      213: -3376956043615141917
+    second: Doctors Spritesheet_63
+  - first:
+      213: 4812558909721937996
+    second: Doctors Spritesheet_64
+  - first:
+      213: 4972552681783430722
+    second: Doctors Spritesheet_65
+  - first:
+      213: 7250572852719781059
+    second: Doctors Spritesheet_66
+  - first:
+      213: -9131365347689908381
+    second: Doctors Spritesheet_67
+  - first:
+      213: -2795448420575789858
+    second: Doctors Spritesheet_68
+  - first:
+      213: -7572846360853416181
+    second: Doctors Spritesheet_69
+  - first:
+      213: 7850211890694912337
+    second: Doctors Spritesheet_70
+  - first:
+      213: 8406466077053256513
+    second: Doctors Spritesheet_71
+  - first:
+      213: -8892649166532015755
+    second: Doctors Spritesheet_72
+  - first:
+      213: -4301791919761269794
+    second: Doctors Spritesheet_73
+  - first:
+      213: 3866347751399655875
+    second: Doctors Spritesheet_74
+  - first:
+      213: -188839994873611314
+    second: Doctors Spritesheet_75
+  - first:
+      213: -7530328090596548212
+    second: Doctors Spritesheet_76
+  - first:
+      213: 3868908860889671105
+    second: Doctors Spritesheet_77
+  - first:
+      213: 3924045673138661623
+    second: Doctors Spritesheet_78
+  - first:
+      213: -3904352937843700689
+    second: Doctors Spritesheet_79
+  - first:
+      213: -4011371308693709289
+    second: Doctors Spritesheet_80
+  - first:
+      213: 3187643688652101404
+    second: Doctors Spritesheet_81
+  - first:
+      213: -3684095482973934469
+    second: Doctors Spritesheet_82
+  - first:
+      213: -3137347169047688195
+    second: Doctors Spritesheet_83
+  - first:
+      213: 1349349550264600766
+    second: Doctors Spritesheet_84
+  - first:
+      213: -1069557141932565830
+    second: Doctors Spritesheet_85
+  - first:
+      213: -3930144092905975913
+    second: Doctors Spritesheet_86
+  - first:
+      213: -7584710633686406631
+    second: Doctors Spritesheet_87
+  - first:
+      213: 880301981526309115
+    second: Doctors Spritesheet_88
+  - first:
+      213: -5889892100625088980
+    second: Doctors Spritesheet_89
+  - first:
+      213: 901859859466981221
+    second: Doctors Spritesheet_90
+  - first:
+      213: 1819331649748915957
+    second: Doctors Spritesheet_91
+  - first:
+      213: -2584183690334720284
+    second: Doctors Spritesheet_92
+  - first:
+      213: 1007226834169320622
+    second: Doctors Spritesheet_93
+  - first:
+      213: 5340137390519926525
+    second: Doctors Spritesheet_94
+  - first:
+      213: 6071350756520568880
+    second: Doctors Spritesheet_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Doctors Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128d989922de50130800000000000000
+      internalID: 3532490215602640929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2ea4d07113db320800000000000000
+      internalID: 2575268537002812076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff42eb1dd5ad5f30800000000000000
+      internalID: 4565987966297722864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a01161d6b6d9060800000000000000
+      internalID: 6961838715250477665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f066f29d4a2b8b730800000000000000
+      internalID: 4015155488888940047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4b323a87e820710800000000000000
+      internalID: 1658044261610009768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed72acc6df7eafa0800000000000000
+      internalID: -5787547910591578645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29669c8d98268760800000000000000
+      internalID: 7459694489919449390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887784b9bd54e8770800000000000000
+      internalID: 8614899946711709576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5657207f35f2b50800000000000000
+      internalID: 6570562701720118739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da3087adf79b9280800000000000000
+      internalID: -9035461111696049450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2848f5a821a3ce700800000000000000
+      internalID: 570895104074548354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e897d76e7a22340800000000000000
+      internalID: 4837613558138769039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27250153b71ae20b0800000000000000
+      internalID: -5751482123562233230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18282b8f18e8dc070800000000000000
+      internalID: 8128309591347987073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d5845f2637c9210800000000000000
+      internalID: 1341073657908714908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da29bbd419b52d60800000000000000
+      internalID: 7864895823509269200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9642a94e85599630800000000000000
+      internalID: 3934269819093927578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037d27e1ec96914f0800000000000000
+      internalID: -857537920042346704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbabcf8c444457c0800000000000000
+      internalID: -4083563866497504332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf9193305cbbb780800000000000000
+      internalID: -8666126005295800393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8440e442ce16a4cf0800000000000000
+      internalID: -267293561025854392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0c589e225fa6150800000000000000
+      internalID: 5866770994899042525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbf1d91d2fd26100800000000000000
+      internalID: 99887526555286471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa89b9ce172ffb40800000000000000
+      internalID: 5476138685092694697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f641e2c6b3f1a60800000000000000
+      internalID: 7646896028113989482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a37a08269740c40800000000000000
+      internalID: 5477636510761564793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15700318924a1b700800000000000000
+      internalID: 554404727311304529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38d6ee0f46d36570800000000000000
+      internalID: 8458840160172693567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292713f3195c8c60800000000000000
+      internalID: 7821724595053340973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878646bcf7d7c66b0800000000000000
+      internalID: -5301724673495242632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc3a5e51b61fcd00800000000000000
+      internalID: 995038993720163572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa39b80e47af2ba0800000000000000
+      internalID: -6111482215722829143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da6a51c5e094b2c0800000000000000
+      internalID: -4416746018077775143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f39ac220c449cc0800000000000000
+      internalID: -3705253021196140767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee8fcc3af9fbeed0800000000000000
+      internalID: -2383536724605169940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a5ba5901e1639b0800000000000000
+      internalID: -5100856471371163095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c453430e08c6134d0800000000000000
+      internalID: -3156622563036875444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1669f012fcf83d0800000000000000
+      internalID: -3202113069134749279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c618ed15102024d90800000000000000
+      internalID: -7115122256600202900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12499c91e8db89980800000000000000
+      internalID: -8531861076037757919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b7ebd5061cf6570800000000000000
+      internalID: 8462194844486237062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0eeccc19e08e9b0800000000000000
+      internalID: -5050770962726854431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6a4e3fa0fcf9c90800000000000000
+      internalID: -7160777236547328281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7f0130835226660800000000000000
+      internalID: 7377500062086133735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34123ffa68115aa60800000000000000
+      internalID: 7684567609352855875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc88bc7635486f10800000000000000
+      internalID: 2263134913076694199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dddf9167e9314c40800000000000000
+      internalID: 5494736686306811345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098461e6f24b3fb70800000000000000
+      internalID: 8931680601809242256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c9b8b3a09e6b440800000000000000
+      internalID: 4951401070498389112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6635fecd9d37ef250800000000000000
+      internalID: 5980344734746366822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b9341c9e3e52630800000000000000
+      internalID: 3901775245295721217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eeabd00b378cb60800000000000000
+      internalID: 7766584757382213234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc27592db3fee1a0800000000000000
+      internalID: -6778212395378070275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506079dcced2cb740800000000000000
+      internalID: 5169056967399245317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc8a738957f8da80800000000000000
+      internalID: -8441725537675998020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca6367c0b63abdf0800000000000000
+      internalID: -163758303558276409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79330be23571a7e70800000000000000
+      internalID: 9113622441970643863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f609284d11020490800000000000000
+      internalID: -7781655980866468106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dece7f22737da9690800000000000000
+      internalID: -7594521189797073683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afece99877c1dab40800000000000000
+      internalID: 5453046023551110906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe21db42cff19a930800000000000000
+      internalID: 4154887299034583791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558e5d23ec2c15990800000000000000
+      internalID: -7398918521921083307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eff536ce54a221d0800000000000000
+      internalID: -3376956043615141917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c480e9294d4a9c240800000000000000
+      internalID: 4812558909721937996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e0e90815e020540800000000000000
+      internalID: 4972552681783430722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4047828953f9460800000000000000
+      internalID: 7250572852719781059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367b1a8a89fd64180800000000000000
+      internalID: -9131365347689908381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc37afe8729439d0800000000000000
+      internalID: -2795448420575789858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07f8b28b58d7e690800000000000000
+      internalID: -7572846360853416181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159fa645f1e81fc60800000000000000
+      internalID: 7850211890694912337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14381239b54c9a470800000000000000
+      internalID: 8406466077053256513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5798fa4c2b6f69480800000000000000
+      internalID: -8892649166532015755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbdbf47a07fc44c0800000000000000
+      internalID: -4301791919761269794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c98e4c8bc608a530800000000000000
+      internalID: 3866347751399655875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbfb22760b116df0800000000000000
+      internalID: -188839994873611314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81e8ddbf76ee7790800000000000000
+      internalID: -7530328090596548212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5a0b15c1021b530800000000000000
+      internalID: 3868908860889671105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8a6ddcfb2057630800000000000000
+      internalID: 3924045673138661623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cc21e60b3f0d9c0800000000000000
+      internalID: -3904352937843700689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e1e134c0fb458c0800000000000000
+      internalID: -4011371308693709289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17df94cb09cc3c20800000000000000
+      internalID: 3187643688652101404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ca7ba6da67fdcc0800000000000000
+      internalID: -3684095482973934469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbc5d34f57e574d0800000000000000
+      internalID: -3137347169047688195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8ca5d444ad9b210800000000000000
+      internalID: 1349349550264600766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba9028327b2821f0800000000000000
+      internalID: -1069557141932565830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f4d3235c25579c0800000000000000
+      internalID: -3930144092905975913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a6efa3dd1bdb690800000000000000
+      internalID: -7584710633686406631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b2f7fcf5773c00800000000000000
+      internalID: 880301981526309115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ebcd82756e24ea0800000000000000
+      internalID: -5889892100625088980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f86b093cc048c00800000000000000
+      internalID: 901859859466981221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6d8e70f709f3910800000000000000
+      internalID: 1819331649748915957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eead3f00a2232cd0800000000000000
+      internalID: -2584183690334720284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea457ea18736afd00800000000000000
+      internalID: 1007226834169320622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeb8b5d9aafb1a40800000000000000
+      internalID: 5340137390519926525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Doctors Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038253d7855c14450800000000000000
+      internalID: 6071350756520568880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
