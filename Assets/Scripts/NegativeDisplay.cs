@@ -10,6 +10,7 @@ public class NegativeDisplay : MonoBehaviour
     public GameObject[] negative;
     TextMeshProUGUI negativeText;
 
+
     void Start()
     {
         negativeText = GetComponent<TextMeshProUGUI>();

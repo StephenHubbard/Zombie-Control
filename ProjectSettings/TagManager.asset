@@ -21,8 +21,8 @@ TagManager:
   - Background
   - Foreground
   - ForegroundDecorations
-  - 
-  - 
+  - Player
+  - NPCS
   - 
   - 
   - 
@@ -57,4 +57,7 @@ TagManager:
     locked: 0
   - name: NPCS
     uniqueID: 3579493811
+    locked: 0
+  - name: Player
+    uniqueID: 2899818931
     locked: 0

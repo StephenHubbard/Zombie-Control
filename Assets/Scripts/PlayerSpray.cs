@@ -7,7 +7,7 @@ public class PlayerSpray : MonoBehaviour
     public Sprite citizenSprite;
     public GameObject sprayVFX;
 
-
+    PlayerMovement player;
 
     private void Update()
     {
@@ -16,9 +16,14 @@ public class PlayerSpray : MonoBehaviour
 
     }
 
+    private void Start()
+    {
+        player = FindObjectOfType<PlayerMovement>();
+    }
+
     private void fireSpray()
     {
-        if (Input.GetMouseButton(0))
+        if (Input.GetMouseButton(0) && player.equipSpray)
         {
             GameObject sprayVFXObject = Instantiate(sprayVFX, transform.position, transform.rotation);
         }

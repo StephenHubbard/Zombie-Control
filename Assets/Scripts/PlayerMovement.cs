@@ -11,22 +11,32 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
     private bool isWalking = false;
     public GameObject playerSpray;
+    public GameObject giveMaskObject;
+    public GameObject maskSprite;
+
+    public int masksAvailable = 1;
+
+    public bool equipMask = false;
+    public bool equipSpray = true;
 
 
 
     void Update()
     {
         ProcessInputs();
-        disableSpray();
+        DisableSpray();
+        DisableMask();
+        showSprite();
+        Equip();
 
         animator.SetFloat("Horizontal", moveDirection.x);
         animator.SetFloat("Vertical", moveDirection.y);
         animator.SetFloat("Speed", moveDirection.sqrMagnitude);
     }
 
-    private void disableSpray()
+    private void DisableSpray()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && equipSpray)
         {
             playerSpray.SetActive(true);
         }
@@ -34,13 +44,46 @@ public class PlayerMovement : MonoBehaviour
         {
             playerSpray.SetActive(false);
         }
-
     }
 
+    private void DisableMask()
+    {
+        if (Input.GetMouseButtonDown(0) && equipMask)
+        {
+            giveMaskObject.SetActive(true);
+        }
+        else if (Input.GetMouseButtonUp(0))
+        {
+            giveMaskObject.SetActive(false);
+        }
+    }
 
+    private void showSprite()
+    {
+        if (equipMask)
+        {
+            maskSprite.SetActive(true);
+        }
+        else if (!equipMask)
+        {
+            maskSprite.SetActive(false);
+        }
+    }
 
-    
+    private void Equip()
+    {
+        if (Input.GetMouseButtonDown(1) && equipSpray)
+        {
+            equipMask = true;
+            equipSpray = false;
 
+        }
+        else if (Input.GetMouseButtonDown(1) && equipMask)
+        {
+            equipMask = false;
+            equipSpray = true;
+        }
+    }
 
 
     private void FixedUpdate()

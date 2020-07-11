@@ -10,6 +10,12 @@ public class NPCMovement : MonoBehaviour
     public Animator animator;
     [SerializeField] float changeDirectionTime = 2f;
 
+    private void Start()
+    {
+        StartCoroutine(ChangeDirection());
+        changeDirectionTime = Random.Range(1f, 3f);
+    }   
+
     private void FixedUpdate()
     {
         Move();
@@ -33,13 +39,10 @@ public class NPCMovement : MonoBehaviour
         animator.SetFloat("Horizontal", moveDirection.x);
         animator.SetFloat("Vertical", moveDirection.y);
         animator.SetFloat("Speed", moveDirection.sqrMagnitude);
+
     }
 
-    private void Start()
-    {
-        StartCoroutine(ChangeDirection());
-        changeDirectionTime = Random.Range(1f, 3f);
-    }
+
 
     IEnumerator ChangeDirection()
     {
@@ -58,7 +61,7 @@ public class NPCMovement : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Negative") && gameObject.CompareTag("Infected"))
+        if ((collision.gameObject.CompareTag("Negative") && gameObject.CompareTag("Infected")) & !collision.gameObject.GetComponent<Mask>())
         {
             gameObject.tag = "Infected";
             collision.gameObject.tag = "Infected";

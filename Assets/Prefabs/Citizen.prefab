@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5989003881383084447}
   - component: {fileID: 8163536140472291966}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Sick Emoji
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -95,7 +95,7 @@ GameObject:
   - component: {fileID: 6131704234463589637}
   - component: {fileID: 6131704234463589636}
   - component: {fileID: 6131704234463589633}
-  m_Layer: 0
+  m_Layer: 12
   m_Name: Citizen
   m_TagString: Negative
   m_Icon: {fileID: 0}
@@ -111,7 +111,7 @@ Transform:
   m_GameObject: {fileID: 6131704234463589639}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.8728485, y: 0.84168315, z: 5.3945312}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
   m_Children:
   - {fileID: 5989003881383084447}
   m_Father: {fileID: 0}
@@ -236,7 +236,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c5278bb1391507e4c8afd55ac7822c36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 3
   rb: {fileID: 6131704234463589634}
   animator: {fileID: 6131704234463589637}
   changeDirectionTime: 2
