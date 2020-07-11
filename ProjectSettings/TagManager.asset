@@ -20,7 +20,7 @@ TagManager:
   - 
   - Background
   - Foreground
-  - 
+  - ForegroundDecorations
   - 
   - 
   - 
@@ -52,9 +52,9 @@ TagManager:
   - name: Foreground
     uniqueID: 3471953593
     locked: 0
+  - name: ForegroundDecorations
+    uniqueID: 920483931
+    locked: 0
   - name: NPCS
     uniqueID: 3579493811
-    locked: 0
-  - name: Player
-    uniqueID: 920483931
     locked: 0

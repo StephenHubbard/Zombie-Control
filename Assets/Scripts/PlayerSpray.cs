@@ -12,6 +12,7 @@ public class PlayerSpray : MonoBehaviour
     private void Update()
     {
         fireSpray();
+        faceMouse();
 
     }
 
@@ -23,7 +24,15 @@ public class PlayerSpray : MonoBehaviour
         }
     }
 
+    private void faceMouse()
+    {
+        Vector3 mousePosition = Input.mousePosition;
+        mousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
 
+        Vector2 direction = new Vector2(transform.position.x - mousePosition.x, transform.position.y - mousePosition.y);
+
+        transform.up = direction;
+    }
 
 
     private void OnTriggerEnter2D(Collider2D collision)

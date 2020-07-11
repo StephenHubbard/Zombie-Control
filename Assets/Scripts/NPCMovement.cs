@@ -9,11 +9,30 @@ public class NPCMovement : MonoBehaviour
     private Vector2 moveDirection;
     public Animator animator;
     [SerializeField] float changeDirectionTime = 2f;
-    public Sprite zombieSprite;
 
     private void FixedUpdate()
     {
         Move();
+        checkSick();
+    }
+
+    private void checkSick()
+    {
+        if (gameObject.CompareTag("Infected"))
+        {
+            gameObject.transform.GetChild(0).gameObject.SetActive(true);
+        }
+        else
+        {
+            gameObject.transform.GetChild(0).gameObject.SetActive(false);
+        }
+    }
+
+    private void Update()
+    {
+        animator.SetFloat("Horizontal", moveDirection.x);
+        animator.SetFloat("Vertical", moveDirection.y);
+        animator.SetFloat("Speed", moveDirection.sqrMagnitude);
     }
 
     private void Start()
@@ -41,8 +60,6 @@ public class NPCMovement : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Negative") && gameObject.CompareTag("Infected"))
         {
-            gameObject.GetComponent<SpriteRenderer>().sprite = zombieSprite;
-            collision.gameObject.GetComponent<SpriteRenderer>().sprite = zombieSprite;
             gameObject.tag = "Infected";
             collision.gameObject.tag = "Infected";
         }

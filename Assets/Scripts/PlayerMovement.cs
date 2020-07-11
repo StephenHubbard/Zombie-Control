@@ -5,25 +5,23 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
 
-    public float moveSpeed;
+    public float moveSpeed = 10f;
     public Rigidbody2D rb;
     private Vector2 moveDirection;
-    // public Animator animator;
+    public Animator animator;
     private bool isWalking = false;
     public GameObject playerSpray;
 
 
 
-    // Update is called once per frame
     void Update()
     {
         ProcessInputs();
-        faceMouse();
         disableSpray();
 
-        //animator.SetFloat("Horizontal", moveDirection.x);
-        //animator.SetFloat("Vertical", moveDirection.y);
-        //animator.SetFloat("Speed", moveDirection.sqrMagnitude);
+        animator.SetFloat("Horizontal", moveDirection.x);
+        animator.SetFloat("Vertical", moveDirection.y);
+        animator.SetFloat("Speed", moveDirection.sqrMagnitude);
     }
 
     private void disableSpray()
@@ -41,15 +39,7 @@ public class PlayerMovement : MonoBehaviour
 
 
 
-    private void faceMouse()
-    {
-        Vector3 mousePosition = Input.mousePosition;
-        mousePosition = Camera.main.ScreenToWorldPoint(mousePosition);
-
-        Vector2 direction = new Vector2(transform.position.x - mousePosition.x, transform.position.y - mousePosition.y);
-
-        transform.up = direction;
-    }
+    
 
 
 
