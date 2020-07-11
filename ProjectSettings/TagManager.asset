@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Zombie
   - Citizen
+  - FxTemporaire
+  - Infected
+  - Negative
   layers:
   - Default
   - TransparentFX

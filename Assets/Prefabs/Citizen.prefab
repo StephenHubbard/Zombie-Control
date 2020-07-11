@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 6131704234463589633}
   m_Layer: 0
   m_Name: Citizen
-  m_TagString: Citizen
+  m_TagString: Negative
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -71,8 +71,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -715473485
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 409475693392993369, guid: 49be0b27915d25b4aaffc18f638aefad, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

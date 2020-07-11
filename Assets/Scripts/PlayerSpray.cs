@@ -5,8 +5,8 @@ using UnityEngine;
 public class PlayerSpray : MonoBehaviour
 {
     public Sprite citizenSprite;
-
     public GameObject sprayVFX;
+
 
 
     private void Update()
@@ -14,7 +14,6 @@ public class PlayerSpray : MonoBehaviour
         fireSpray();
 
     }
-
 
     private void fireSpray()
     {
@@ -24,14 +23,15 @@ public class PlayerSpray : MonoBehaviour
         }
     }
 
+
+
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Zombie"))
+        if (collision.CompareTag("Infected"))
         {
             collision.gameObject.GetComponent<SpriteRenderer>().sprite = citizenSprite;
-            collision.gameObject.tag = "Citizen";
+            collision.gameObject.tag = "Negative";
         }
     }
-
-    
 }

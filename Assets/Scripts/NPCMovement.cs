@@ -39,12 +39,12 @@ public class NPCMovement : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Citizen") && gameObject.CompareTag("Zombie"))
+        if (collision.gameObject.CompareTag("Negative") && gameObject.CompareTag("Infected"))
         {
             gameObject.GetComponent<SpriteRenderer>().sprite = zombieSprite;
             collision.gameObject.GetComponent<SpriteRenderer>().sprite = zombieSprite;
-            gameObject.tag = "Zombie";
-            collision.gameObject.tag = "Zombie";
+            gameObject.tag = "Infected";
+            collision.gameObject.tag = "Infected";
         }
     }
 }

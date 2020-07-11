@@ -10,20 +10,36 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 moveDirection;
     // public Animator animator;
     private bool isWalking = false;
+    public GameObject playerSpray;
+
+
 
     // Update is called once per frame
     void Update()
     {
         ProcessInputs();
         faceMouse();
-
+        disableSpray();
 
         //animator.SetFloat("Horizontal", moveDirection.x);
         //animator.SetFloat("Vertical", moveDirection.y);
         //animator.SetFloat("Speed", moveDirection.sqrMagnitude);
     }
 
-    
+    private void disableSpray()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            playerSpray.SetActive(true);
+        }
+        else if (Input.GetMouseButtonUp(0))
+        {
+            playerSpray.SetActive(false);
+        }
+
+    }
+
+
 
     private void faceMouse()
     {
