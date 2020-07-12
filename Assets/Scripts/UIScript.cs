@@ -19,7 +19,7 @@ public class UIScript : MonoBehaviour
     NegativeDisplay negativeDisplay;
     PlayerMovement player;
     public GameObject startTimer;
-    private float startTimerFloat = 6f;
+    private float startTimerFloat = 5f;
 
     private void Awake()
     {
@@ -46,7 +46,7 @@ public class UIScript : MonoBehaviour
     private void StartTimerCountdown()
     {
         startTimerFloat -= Time.deltaTime;
-        startTimer.GetComponent<TextMeshProUGUI>().text = startTimerFloat.ToString();
+        startTimer.GetComponent<TextMeshProUGUI>().text = startTimerFloat.ToString("F0");
         if (startTimerFloat < 0)
         {
             startTimer.SetActive(false);
