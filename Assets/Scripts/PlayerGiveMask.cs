@@ -42,15 +42,13 @@ public class PlayerGiveMask : MonoBehaviour
             {
                 animator.runtimeAnimatorController = myControllers[1];
                 collision.gameObject.AddComponent<Mask>();
-                player.masksAvailable--;
             }
             else if (animator.runtimeAnimatorController == myControllers[2])
             {
                 animator.runtimeAnimatorController = myControllers[3];
                 collision.gameObject.AddComponent<Mask>();
-                player.masksAvailable--;
-
             }
+            player.masksAvailable--;
         }
         
 

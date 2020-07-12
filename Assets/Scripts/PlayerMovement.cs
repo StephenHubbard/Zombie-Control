@@ -13,11 +13,13 @@ public class PlayerMovement : MonoBehaviour
     public GameObject playerSpray;
     public GameObject giveMaskObject;
     public GameObject maskSprite;
+    public GameObject spraySprite;
 
-    public int masksAvailable = 1;
+    public int masksAvailable = 3;
 
     public bool equipMask = false;
     public bool equipSpray = true;
+    public bool canMove = false;
 
 
 
@@ -27,6 +29,7 @@ public class PlayerMovement : MonoBehaviour
         DisableSpray();
         DisableMask();
         showSprite();
+        showSpriteSpray();
         Equip();
 
         animator.SetFloat("Horizontal", moveDirection.x);
@@ -70,6 +73,18 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    private void showSpriteSpray()
+    {
+        if (equipSpray)
+        {
+            spraySprite.SetActive(true);
+        }
+        else if (!equipSpray)
+        {
+            spraySprite.SetActive(false);
+        }
+    }
+
     private void Equip()
     {
         if (Input.GetMouseButtonDown(1) && equipSpray)
@@ -93,10 +108,12 @@ public class PlayerMovement : MonoBehaviour
 
     private void ProcessInputs()
     {
-        float moveX = Input.GetAxisRaw("Horizontal");
-        float moveY = Input.GetAxisRaw("Vertical");
-
-        moveDirection = new Vector2(moveX, moveY).normalized;
+        if (canMove)
+        {
+            float moveX = Input.GetAxisRaw("Horizontal");
+            float moveY = Input.GetAxisRaw("Vertical");
+            moveDirection = new Vector2(moveX, moveY).normalized;
+        }
     }
 
     private void Move()

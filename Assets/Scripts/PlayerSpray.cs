@@ -1,32 +1,51 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+
 
 public class PlayerSpray : MonoBehaviour
 {
     public Sprite citizenSprite;
     public GameObject sprayVFX;
+    public AudioClip spraySFX;
+
+    private bool sprayAudioPlaying = false;
 
     PlayerMovement player;
+
+    HandleSprayFill handleSprayFill;
 
     private void Update()
     {
         fireSpray();
         faceMouse();
-
     }
 
     private void Start()
     {
         player = FindObjectOfType<PlayerMovement>();
+        handleSprayFill = FindObjectOfType<HandleSprayFill>();
+        //InvokeRepeating("audioSprayDelay", .5f, .15f);
+
     }
 
     private void fireSpray()
     {
-        if (Input.GetMouseButton(0) && player.equipSpray)
+        if (Input.GetMouseButton(0) && player.equipSpray && handleSprayFill.GetComponent<Slider>().value > 0)
         {
             GameObject sprayVFXObject = Instantiate(sprayVFX, transform.position, transform.rotation);
+            handleSprayFill.sprayOn = true;
         }
+        
+    }
+
+
+    // play the spray audio, implement later if time allows (can't find good audio)
+    private void audioSprayDelay()
+    {
+        AudioSource.PlayClipAtPoint(spraySFX, Camera.main.transform.position);
+        print("audio played");
     }
 
     private void faceMouse()

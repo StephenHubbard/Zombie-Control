@@ -13,9 +13,13 @@ public class UIScript : MonoBehaviour
     [SerializeField] GameObject nozzleImage;
     [SerializeField] TextMeshProUGUI waveCompleteText;
     [SerializeField] GameObject textWaveObject;
+    [SerializeField] GameObject dimImage;
+    [SerializeField] GameObject miniMap;
     InfectedDisplay infectedDisplay;
     NegativeDisplay negativeDisplay;
     PlayerMovement player;
+    public GameObject startTimer;
+    private float startTimerFloat = 1f;
 
     private void Awake()
     {
@@ -35,6 +39,27 @@ public class UIScript : MonoBehaviour
     {
         ChangeIcons();
         CheckWin();
+        UndimWaveStart();
+        StartTimerCountdown();
+    }
+
+    private void StartTimerCountdown()
+    {
+        startTimerFloat -= Time.deltaTime;
+        startTimer.GetComponent<TextMeshProUGUI>().text = startTimerFloat.ToString();
+        if (startTimerFloat < 0)
+        {
+            startTimer.SetActive(false);
+            player.canMove = true;
+        }
+    }
+
+    private void UndimWaveStart()
+    {
+        if (Time.timeScale == 1)
+        {
+            dimImage.SetActive(false);
+        }
     }
 
     private void ChangeIcons()
@@ -63,10 +88,13 @@ public class UIScript : MonoBehaviour
     {
         textWaveObject.SetActive(false);
         Time.timeScale = 1;
+        miniMap.SetActive(true);
+        startTimer.SetActive(true);
     }
 
     public void NextWave()
     {
-        // get curren scene index and load next level. 
+        var currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(currentSceneIndex + 1);
     }
 }

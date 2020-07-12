@@ -24,14 +24,17 @@ public class NPCMovement : MonoBehaviour
 
     private void checkSick()
     {
-        if (gameObject.CompareTag("Infected"))
+        if (gameObject.CompareTag("Infected") && !gameObject.GetComponent<Mask>())
         {
             gameObject.transform.GetChild(0).gameObject.SetActive(true);
+            gameObject.transform.GetChild(1).gameObject.SetActive(true);
         }
         else
         {
             gameObject.transform.GetChild(0).gameObject.SetActive(false);
+            gameObject.transform.GetChild(1).gameObject.SetActive(false);
         }
+        
     }
 
     private void Update()

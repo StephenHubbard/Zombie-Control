@@ -23,7 +23,7 @@ TagManager:
   - ForegroundDecorations
   - Player
   - NPCS
-  - 
+  - Minimap
   - 
   - 
   - 
@@ -57,6 +57,9 @@ TagManager:
     locked: 0
   - name: NPCS
     uniqueID: 3579493811
+    locked: 0
+  - name: Minimap
+    uniqueID: 2815787721
     locked: 0
   - name: Player
     uniqueID: 2899818931
