@@ -18,7 +18,7 @@ public class Chest : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             Destroy(gameObject);
-            player.masksAvailable += 3;
+            player.masksAvailable += 8;
         }
     }
 }

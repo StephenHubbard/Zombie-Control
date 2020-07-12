@@ -8,7 +8,7 @@ public class PlayerSpray : MonoBehaviour
 {
     public Sprite citizenSprite;
     public GameObject sprayVFX;
-    public AudioClip spraySFX;
+    public AudioSource spraySFX;
 
     private bool sprayAudioPlaying = false;
 
@@ -26,7 +26,6 @@ public class PlayerSpray : MonoBehaviour
     {
         player = FindObjectOfType<PlayerMovement>();
         handleSprayFill = FindObjectOfType<HandleSprayFill>();
-        //InvokeRepeating("audioSprayDelay", .5f, .15f);
 
     }
 
@@ -36,17 +35,21 @@ public class PlayerSpray : MonoBehaviour
         {
             GameObject sprayVFXObject = Instantiate(sprayVFX, transform.position, transform.rotation);
             handleSprayFill.sprayOn = true;
+            //audioSpray();
         }
         
     }
 
 
     // play the spray audio, implement later if time allows (can't find good audio)
-    private void audioSprayDelay()
-    {
-        AudioSource.PlayClipAtPoint(spraySFX, Camera.main.transform.position);
-        print("audio played");
-    }
+    //private void audioSpray()
+    //{
+    //    if (!spraySFX.isPlaying)
+    //    {
+    //        spraySFX.Play();
+    //    }
+    //    print("audio played");
+    //}
 
     private void faceMouse()
     {

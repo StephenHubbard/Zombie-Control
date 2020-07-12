@@ -14,6 +14,7 @@ public class PlayerMovement : MonoBehaviour
     public GameObject giveMaskObject;
     public GameObject maskSprite;
     public GameObject spraySprite;
+    HandleSprayFill handleSprayFill;
 
     public int masksAvailable = 3;
 
@@ -21,6 +22,10 @@ public class PlayerMovement : MonoBehaviour
     public bool equipSpray = true;
     public bool canMove = false;
 
+    private void Start()
+    {
+        handleSprayFill = FindObjectOfType<HandleSprayFill>();
+    }
 
 
     void Update()
@@ -39,9 +44,13 @@ public class PlayerMovement : MonoBehaviour
 
     private void DisableSpray()
     {
-        if (Input.GetMouseButtonDown(0) && equipSpray)
+        if (Input.GetMouseButtonDown(0) && equipSpray && handleSprayFill.sprayCapacity > 0)
         {
             playerSpray.SetActive(true);
+        }
+        else if (handleSprayFill.sprayCapacity < .1)
+        {
+            playerSpray.SetActive(false);
         }
         else if (Input.GetMouseButtonUp(0))
         {

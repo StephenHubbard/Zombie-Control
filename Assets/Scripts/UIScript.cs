@@ -19,7 +19,7 @@ public class UIScript : MonoBehaviour
     NegativeDisplay negativeDisplay;
     PlayerMovement player;
     public GameObject startTimer;
-    private float startTimerFloat = 1f;
+    private float startTimerFloat = 6f;
 
     private void Awake()
     {

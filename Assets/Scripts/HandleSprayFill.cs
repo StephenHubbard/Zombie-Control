@@ -6,8 +6,7 @@ using UnityEngine.UI;
 public class HandleSprayFill : MonoBehaviour
 {
 
-    [SerializeField] float sprayCapacity = 1f;
-    [SerializeField] float sprayAdjust = 10f;
+    [SerializeField] public float sprayCapacity = 1f;
 
     public bool sprayOn = false;
 
@@ -31,7 +30,7 @@ public class HandleSprayFill : MonoBehaviour
     {
         if (!sprayOn && sprayCapacity < 1f)
         {
-            sprayCapacity += Time.deltaTime / 4f;
+            sprayCapacity += Time.deltaTime / 3f;
         }
     }
 
@@ -47,7 +46,7 @@ public class HandleSprayFill : MonoBehaviour
     {
         if (sprayOn && sprayCapacity > 0f)
         {
-            sprayCapacity -= Time.deltaTime;
+            sprayCapacity -= Time.deltaTime / 2f;
         }
     }
 }
